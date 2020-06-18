@@ -1,0 +1,17 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "programmatic-test": "mocha --config .mocharc.json",
+    "test": "mocha --config .mocharc.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.2.0",
+    "mocha-tap-reporter": "^0.1.3",
+    "shell-quote": "^1.7.2"
+  }
+}
