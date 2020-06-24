@@ -12,3 +12,8 @@ if [[ ! -a website/client ]]
 then 
   mkdir website/client
 fi
+
+if [[ ! -a website/client/src ]]
+then 
+  mkdir website/client/src
+fi
