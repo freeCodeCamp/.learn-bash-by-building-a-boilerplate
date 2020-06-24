@@ -7,8 +7,3 @@ fi
 
 find ./website -not -name '.' -not -name '..' -not -name 'website' -delete
 cp -r ./freeCodeCamp/reset_files/website/. ./website
-
-if [[ ! -a website/images ]]
-then
-  mkdir website/images
-fi
