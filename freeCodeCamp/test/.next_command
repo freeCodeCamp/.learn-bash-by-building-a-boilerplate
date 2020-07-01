@@ -315,3 +315,6 @@ cd website/
 ls --color=auto
 find -name icons
 mv freeCodeCamp.svg client/assets/icons
+find
+ls --color=auto
+find
