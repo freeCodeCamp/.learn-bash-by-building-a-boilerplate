@@ -7,8 +7,3 @@ fi
 
 find ./website -not -name '.' -not -name '..' -not -name 'website' -delete
 cp -r ./freeCodeCamp/reset_files/website/. ./website
-
-if [[ ! -a website/client/assets/fonts ]]
-then 
-  mkdir website/client/assets/fonts
-fi
