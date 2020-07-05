@@ -1,7 +1,7 @@
 {
-  "spec": ["./test/*.js"],
+  "spec": ["./test/5.test.js"],
   "reporter": "mocha-tap-reporter",
   "fail-zero": false,
   "timeout": "5000",
-  "grep": "/passAllTests/"
+  "grep": "/./"
 }
