@@ -1,5 +1,5 @@
 {
-  "spec": ["./test/1310.test.js"],
+  "spec": ["./test/1315.test.js"],
   "reporter": "mocha-tap-reporter",
   "fail-zero": false,
   "timeout": "5000",
