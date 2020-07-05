@@ -2,8 +2,13 @@
 
 if [[ ! -a website ]]
 then 
-  mkdir website
+  sudo rm -rf website
 fi
 
-find ./website -not -name '.' -not -name '..' -not -name 'website' -delete
-cp -r ./freeCodeCamp/reset_files/website/. ./website
+if [[ ! -a website-boilerplate ]]
+then 
+  mkdir website-boilerplate
+fi
+
+find ./website-boilerplate -not -name '.' -not -name '..' -not -name 'website-boilerplate' -delete
+cp -r ./freeCodeCamp/reset_files/website-boilerplate/. ./website-boilerplate
