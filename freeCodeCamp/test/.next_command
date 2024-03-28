@@ -220,3 +220,4 @@ cd ..
 cd ..
 cd ..
 cd /project
+ls --color=auto
