@@ -299,3 +299,4 @@ ls --color=auto
 pwd
 cd ..
 ls --color=auto
+ls --color=auto
