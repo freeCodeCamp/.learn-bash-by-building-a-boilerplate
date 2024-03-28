@@ -180,3 +180,8 @@ cd..
 cd ..
 ls --color=auto
 more package.json
+ls --color=auto
+cd test
+ls --color=auto
+cd ..
+ls --color=auto
