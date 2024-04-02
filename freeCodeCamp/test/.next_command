@@ -169,3 +169,4 @@ cd ..
 ls --color=auto
 rm header.png images
 rm footer.jpeg website
+ls --color=auto
