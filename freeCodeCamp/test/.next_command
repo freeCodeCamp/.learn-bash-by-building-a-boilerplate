@@ -100,3 +100,4 @@ pwd
 ls --color=auto
 more src
 more index.js
+cd ..
