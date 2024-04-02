@@ -164,3 +164,4 @@ cd ..
 cd images
 cd website
 cd images
+ls --color=auto
