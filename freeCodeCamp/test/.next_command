@@ -87,3 +87,4 @@ cd node_modules
 ls --color=auto
 ls --color=auto -l
 cd has
+ls --color=auto
