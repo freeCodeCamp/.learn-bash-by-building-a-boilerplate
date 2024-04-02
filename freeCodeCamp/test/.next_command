@@ -115,3 +115,4 @@ echo hello website
 touch website
 touch index.html
 touch styles.css
+ls --color=auto
