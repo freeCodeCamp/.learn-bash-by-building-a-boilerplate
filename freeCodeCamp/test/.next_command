@@ -154,3 +154,4 @@ cd ..
 ls --color=auto
 rm background.jpg website
 ls --color=auto
+cp header.png images
