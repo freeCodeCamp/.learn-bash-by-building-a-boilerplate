@@ -155,3 +155,7 @@ ls --color=auto
 rm background.jpg website
 ls --color=auto
 cp header.png images
+cp footer.jpg images
+cp footer images
+cp footer.png images
+cp footer.jpeg images
