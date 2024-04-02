@@ -112,3 +112,5 @@ cd website
 ls --color=auto
 echo website
 echo hello website
+touch website
+touch index.html
