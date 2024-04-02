@@ -159,3 +159,8 @@ cp footer.jpg images
 cp footer images
 cp footer.png images
 cp footer.jpeg images
+ls --color=auto
+cd ..
+cd images
+cd website
+cd images
