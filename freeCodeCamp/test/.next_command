@@ -148,3 +148,6 @@ cp background.jpg images
 cd imgages
 cd images
 ls --color=auto
+cd website
+cd website
+cd ..
