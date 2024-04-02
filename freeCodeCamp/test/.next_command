@@ -123,3 +123,4 @@ command --help
 ls --color=auto
 ls --color=auto -l
 ls --color=auto --help
+ls --color=auto --all
