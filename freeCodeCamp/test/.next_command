@@ -132,3 +132,4 @@ cd ..
 cd project
 cd ../..
 ls --color=auto
+clear
