@@ -131,3 +131,4 @@ Permission is hereby granted, free of charge, to any person
 cd ..
 cd project
 cd ../..
+ls --color=auto
