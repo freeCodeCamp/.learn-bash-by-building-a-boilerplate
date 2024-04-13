@@ -116,3 +116,5 @@ cd /workspace/project/freeCodeCamp/node_modules/has
 ls --color=auto
 more LICENSE-MIT
 clear
+__vsc_prompt_cmd_original
+ls --color=auto
