@@ -60,3 +60,5 @@ cd node_modules
 ls --color=auto
 __vsc_prompt_cmd_original
 ls --color=auto -l
+__vsc_prompt_cmd_original
+cd has
