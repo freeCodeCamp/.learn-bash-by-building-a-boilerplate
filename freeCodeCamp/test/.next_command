@@ -139,3 +139,5 @@ mkdir website
 ls --color=auto
 cd website/
 ls --color=auto
+echo helllo website
+echo hello website
