@@ -122,3 +122,5 @@ cd src
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 pwd
+__vsc_prompt_cmd_original
+ls --color=auto
