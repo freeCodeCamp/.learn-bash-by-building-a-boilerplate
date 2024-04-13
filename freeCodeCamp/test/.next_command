@@ -57,3 +57,4 @@ __vsc_prompt_cmd_original
 more node_modules
 __vsc_prompt_cmd_original
 cd node_modules
+ls --color=auto
