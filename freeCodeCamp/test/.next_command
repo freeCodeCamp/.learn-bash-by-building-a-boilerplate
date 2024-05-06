@@ -83,3 +83,4 @@ ls --color=auto
 list -l
 list-l
 ls --color=auto -l
+cd has
