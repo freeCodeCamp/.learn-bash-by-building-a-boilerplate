@@ -84,3 +84,5 @@ list -l
 list-l
 ls --color=auto -l
 cd has
+pwd
+ls --color=auto
