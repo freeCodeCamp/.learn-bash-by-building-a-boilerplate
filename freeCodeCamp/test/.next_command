@@ -121,3 +121,4 @@ touvh style.css
 touch style.css
 ls --color=auto
 mv style.css styles.css
+ls --color=auto
