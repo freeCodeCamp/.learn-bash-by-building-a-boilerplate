@@ -180,3 +180,4 @@ mkdir client
 mkdir client/src
 mv index.html client/src
 find
+mv index.js client/src
