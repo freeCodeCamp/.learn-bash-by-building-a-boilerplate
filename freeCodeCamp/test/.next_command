@@ -168,3 +168,5 @@ ls --color=auto
 mv lato.font lato.ttf
 mv menlo.font menlo.otf
 ls --color=auto
+mkdir fonts
+__vsc_prompt_cmd_original
