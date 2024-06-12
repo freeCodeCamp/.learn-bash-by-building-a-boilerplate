@@ -216,3 +216,5 @@ clear
 find -name header.png
 find -name fooer.jpeg
 find -name footer.jpeg
+mv ./images/footer.jpeg clientasssets/images
+mv ./images/footer.jpeg client/assets/images
