@@ -184,3 +184,4 @@ mv index.js client/src
 mv styles.css client/src
 ls --color=auto
 find
+find client
