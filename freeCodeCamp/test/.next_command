@@ -122,3 +122,4 @@ touch style.css
 ls --color=auto
 mv style.css styles.css
 ls --color=auto
+touch index.js
