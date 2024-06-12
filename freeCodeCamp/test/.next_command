@@ -152,3 +152,4 @@ cd ..
 lls
 ls --color=auto
 rm background.jpg
+ls --color=auto
