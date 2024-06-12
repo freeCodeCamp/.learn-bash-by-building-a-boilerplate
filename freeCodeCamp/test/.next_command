@@ -124,3 +124,4 @@ mv style.css styles.css
 ls --color=auto
 touch index.js
 touch .gitignore
+ls --color=auto
