@@ -251,3 +251,4 @@ find
 rm fonts
 rm -r fonts
 rm --help
+rm -r fonts
