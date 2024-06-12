@@ -218,3 +218,6 @@ find -name fooer.jpeg
 find -name footer.jpeg
 mv ./images/footer.jpeg clientasssets/images
 mv ./images/footer.jpeg client/assets/images
+ls --color=auto client/assets/images
+find client/assets/images
+find
