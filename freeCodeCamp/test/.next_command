@@ -206,3 +206,4 @@ mv header.png ../
 ls --color=auto
 cd website
 cd ../
+ls --color=auto
