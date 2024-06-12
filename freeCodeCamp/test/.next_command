@@ -222,3 +222,12 @@ ls --color=auto client/assets/images
 find client/assets/images
 find
 rmdir images
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
+find -name backgroundjpeg
+find -name background.jpeg
+find -name background.jpg
+rm ./images/background.jpg
