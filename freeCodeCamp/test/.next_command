@@ -200,3 +200,4 @@ cd images
 touch background.jpg
 pwd
 cd ../../..
+cd images
