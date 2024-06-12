@@ -113,3 +113,4 @@ ls --color=auto
 clear
 mkdir website
 ls --color=auto
+cd website
