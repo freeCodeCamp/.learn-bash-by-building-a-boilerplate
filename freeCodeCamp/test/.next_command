@@ -214,3 +214,5 @@ find -name images
 mv header.png client/assets/images
 clear
 find -name header.png
+find -name fooer.jpeg
+find -name footer.jpeg
