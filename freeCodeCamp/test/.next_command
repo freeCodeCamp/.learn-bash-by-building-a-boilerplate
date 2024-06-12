@@ -193,3 +193,4 @@ __vsc_prompt_cmd_original
 find -name src
 find
 cd client
+mkdir assets
