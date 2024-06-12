@@ -186,3 +186,4 @@ ls --color=auto
 find
 find client
 find --help
+find -name index.html
