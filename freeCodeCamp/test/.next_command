@@ -197,3 +197,8 @@ find --help
 find -name index.html
 find -name styles.cs
 find -name styles.css
+find flag src
+find src
+flag src
+find . -type d -name "src"
+find -name src
