@@ -211,3 +211,6 @@ ls --color=auto
 mkdir assets
 ls --color=auto
 cd assets
+mv images assets/images
+ls --color=auto
+mkdir images
