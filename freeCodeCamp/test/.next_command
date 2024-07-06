@@ -236,3 +236,4 @@ mv background.jpg ..
 ls --color=auto
 mv header.png
 mv header.png ..
+ls --color=auto
