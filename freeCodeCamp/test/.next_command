@@ -294,3 +294,11 @@ echo one more thing...
 echo I made this boilerplate >> README.md
 more README.d
 more README.md
+echo REAMDME.md
+echo REAMDME.md >> README.md
+echo I made this boilerplate >> README.md
+more README.md
+echo >> READMe.md
+echo >> README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
