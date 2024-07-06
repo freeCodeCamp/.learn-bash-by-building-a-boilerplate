@@ -214,3 +214,4 @@ cd assets
 mv images assets/images
 ls --color=auto
 mkdir images
+cd images
