@@ -118,3 +118,6 @@ __vsc_original_prompt_command=$PROMPT_COMMAND
 cd website
 ls --color=auto
 touch index.html
+touch style.css
+ls --color=auto
+touch styles.css
