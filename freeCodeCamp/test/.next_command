@@ -186,3 +186,4 @@ mkdir client
 ls --color=auto
 mkdir clinet/src
 mkdir client/src
+mv index.html client/src
