@@ -230,3 +230,4 @@ cd assets
 cd images
 ls --color=auto
 cd ../../..
+cd images
