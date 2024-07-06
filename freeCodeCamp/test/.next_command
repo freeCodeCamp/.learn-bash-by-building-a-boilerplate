@@ -204,3 +204,8 @@ find . -type d -name "src"
 find -name src
 find
 cd client
+touch assets
+ls --color=auto
+rm assets
+ls --color=auto
+mkdir assets
