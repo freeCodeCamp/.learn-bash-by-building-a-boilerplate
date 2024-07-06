@@ -285,3 +285,5 @@ touch README.md
 ls --color=auto
 rm background.jpg
 echo Yay!
+echo I finished the boilerpalet!
+echo I finished the boilerplate!
