@@ -160,3 +160,4 @@ cp header.jpg images
 cp header.png images
 __vsc_prompt_cmd_original
 cp footer.jpeg images
+cd images
