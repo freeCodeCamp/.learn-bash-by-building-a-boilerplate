@@ -304,3 +304,6 @@ echo I made this boilerplate >> README.md
 echo from the command line >> README.md
 more readme
 more README.md
+echo for the freeCodeCamp bash lessons >> READMe.md
+more README.md
+echo for the freeCodeCamp bash lessons >> README.md
