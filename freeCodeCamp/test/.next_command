@@ -59,3 +59,4 @@ __vsc_original_prompt_command=$PROMPT_COMMAND
 cd freeCodeCamp
 ls --color=auto
 more package.json
+clear
