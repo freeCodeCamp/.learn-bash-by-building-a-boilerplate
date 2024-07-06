@@ -128,3 +128,7 @@ ls --color=auto
 --help
 ls --color=auto --help
 ls --color=auto --all
+cd ..
+cd .
+cd website
+cd .
