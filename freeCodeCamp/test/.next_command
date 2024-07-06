@@ -278,3 +278,4 @@ rmdir fonts
 rmdir --help
 rm --help
 rm -r fonts
+ls --color=auto
