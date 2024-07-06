@@ -231,3 +231,4 @@ cd images
 ls --color=auto
 cd ../../..
 cd images
+ls --color=auto
