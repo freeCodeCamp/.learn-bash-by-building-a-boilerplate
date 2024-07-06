@@ -209,3 +209,5 @@ ls --color=auto
 rm assets
 ls --color=auto
 mkdir assets
+ls --color=auto
+cd assets
