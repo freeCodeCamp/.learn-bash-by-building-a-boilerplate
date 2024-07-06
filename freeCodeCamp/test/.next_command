@@ -215,3 +215,4 @@ mv images assets/images
 ls --color=auto
 mkdir images
 cd images
+touch background.jpg
