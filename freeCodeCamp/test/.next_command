@@ -302,3 +302,5 @@ echo >> READMe.md
 echo >> README.md
 echo I made this boilerplate >> README.md
 echo from the command line >> README.md
+more readme
+more README.md
