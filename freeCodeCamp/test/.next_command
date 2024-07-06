@@ -216,3 +216,17 @@ ls --color=auto
 mkdir images
 cd images
 touch background.jpg
+cd ..//..
+cd ..//..
+cd website
+ls --color=auto
+cd client
+cd src
+cd assets
+ls --color=auto
+cd ..
+ls --color=auto
+cd assets
+cd images
+ls --color=auto
+cd ../../..
