@@ -8,6 +8,8 @@
 
 **The first thing you need to do is start the terminal.** Do that by clicking the "hamburger" menu at the top left of the screen, going to the "terminal" section, and clicking "new terminal". Once you open a new one, type `echo hello terminal` into the terminal and press enter.
 
+You still can't find the hamburger menu? gitpod.io editor has it at the top left of the screen.
+
 #### HINTS
 
 - Capitalization matters
