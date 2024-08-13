@@ -177,3 +177,8 @@ mkdir assets
 cd assets/
 mkdir images
 cd images
+touch backgroung.jpg
+ls --color=auto
+rm backgroung.jpg
+ls --color=auto
+touch background.jpg
