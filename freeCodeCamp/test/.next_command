@@ -202,3 +202,33 @@ find -name images
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+ls --color=auto
+cd images
+ls --color=auto
+mv footer.jpeg ..
+cd ..
+ls --color=auto
+mv footer.jpg client/assets/images
+mv footer.jpeg client/assets/images
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+mv footer.jpeg ../../..
+ls --color=auto
+cd ../../..
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+mv footer.jpeg images
+ls --color=auto
+cd images
+ls --color=auto
+mv images/footer.jpeg client/assets/images
+cd ..
+mv images/footer.jpeg client/assets/images
