@@ -240,3 +240,12 @@ rm background.jpg
 cd ..
 rmdir images
 ls --color=auto
+cd client
+cd assets
+ls --color=auto
+mkdir icons
+ls --color=auto
+rmdir icons
+ls --color=auto
+cd ../..
+mkdir client/assets/icons
