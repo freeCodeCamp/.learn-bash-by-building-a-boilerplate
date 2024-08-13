@@ -173,3 +173,4 @@ find -name src
 find
 cd clien
 cd client
+mkdir assets
