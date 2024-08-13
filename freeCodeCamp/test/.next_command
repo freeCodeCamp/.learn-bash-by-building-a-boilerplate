@@ -254,3 +254,28 @@ mv CodeAlly.svg client/assets/icons
 ls --color=auto
 cd website
 find
+find -name icons
+ls --color=auto
+cd client
+ls --color=auto
+ls --color=auto -a
+cd assets
+ls --color=auto
+cd ../..
+ls --color=auto
+mv CodeRoad.svg client/assets/icons
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+rm icons
+ls --color=auto
+mkdir icons
+ls --color=auto
+cd ../..
+ls --color=auto
+touch CodeRoad.svg
+ls --color=auto
+mv CodeRoad.svg client/assets/icons
