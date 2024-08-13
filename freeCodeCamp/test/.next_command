@@ -185,3 +185,13 @@ touch background.jpg
 cd ../../..
 cd images
 ls --color=auto
+mv header.png website
+ls --color=auto
+find -name header.png
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+mv website header.png
+ls --color=auto
+mv header.png ..
