@@ -363,3 +363,4 @@ mv website website-boilerplate
 ls --color=auto
 cp --help
 cp -r website-boilerplate toms-website
+ls --color=auto
