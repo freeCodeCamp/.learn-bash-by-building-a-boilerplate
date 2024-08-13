@@ -279,3 +279,4 @@ ls --color=auto
 touch CodeRoad.svg
 ls --color=auto
 mv CodeRoad.svg client/assets/icons
+ls --color=auto
