@@ -344,3 +344,4 @@ ls --color=auto
 rm -r fonts
 ls --color=auto
 ls --color=auto
+touch package.json
