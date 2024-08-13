@@ -154,3 +154,8 @@ find
 mv lato.ttf fonts
 mv menlo.otf fonts
 find
+touch client
+ls --color=auto
+rm client
+ls --color=auto
+mkdir client
