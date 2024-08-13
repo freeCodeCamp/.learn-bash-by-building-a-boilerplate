@@ -160,3 +160,4 @@ rm client
 ls --color=auto
 mkdir client
 mkdir client/src
+mv index.html client/src
