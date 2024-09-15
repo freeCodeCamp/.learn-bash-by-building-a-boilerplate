@@ -194,3 +194,5 @@ mv styles.css client/src/
 fidn
 find
 find client/
+find --gelp
+find --help
