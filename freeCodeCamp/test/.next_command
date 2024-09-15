@@ -196,3 +196,6 @@ find
 find client/
 find --gelp
 find --help
+find index.html
+find - index.html
+find -name index.html
