@@ -151,3 +151,6 @@ rm codeAlly.svg
 ls --color=auto
 touch CodeAlly.svg
 touch CodeRoad.svg
+touch freeeCodeCamp.svg
+rm freeeCodeCamp.svg
+touch freeCodeCamp.svg
