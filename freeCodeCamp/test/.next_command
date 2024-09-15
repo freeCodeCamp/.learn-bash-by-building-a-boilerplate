@@ -84,3 +84,6 @@ touch index.html
 touch styles.css
 ls --color=auto
 touch index.js
+mkdir .gitignore
+ls --color=auto
+touch .gitignore
