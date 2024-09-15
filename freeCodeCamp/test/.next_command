@@ -203,3 +203,4 @@ find -name styles.css
 find src
 find -name src
 find
+cd client/
