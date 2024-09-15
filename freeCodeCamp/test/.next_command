@@ -156,3 +156,4 @@ rm freeeCodeCamp.svg
 touch freeCodeCamp.svg
 ls --color=auto
 mkdir images
+ls --color=auto
