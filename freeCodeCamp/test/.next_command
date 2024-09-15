@@ -54,3 +54,4 @@ ls --color=auto < flag > -1
 \clear
 ls --color=auto -1
 ls --color=auto -l
+cd has
