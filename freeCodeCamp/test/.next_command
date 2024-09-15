@@ -55,3 +55,4 @@ ls --color=auto < flag > -1
 ls --color=auto -1
 ls --color=auto -l
 cd has
+ls --color=auto
