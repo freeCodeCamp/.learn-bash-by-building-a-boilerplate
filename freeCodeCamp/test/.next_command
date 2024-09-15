@@ -63,3 +63,5 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src/
+ls --color=auto
+pwd
