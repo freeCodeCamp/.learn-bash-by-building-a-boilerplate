@@ -65,3 +65,6 @@ ls --color=auto
 cd src/
 ls --color=auto
 pwd
+cd /
+cd workspace/project/freeCodeCamp/node_modules//has/src/
+ls --color=auto
