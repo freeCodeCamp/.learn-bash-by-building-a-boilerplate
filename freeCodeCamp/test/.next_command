@@ -88,3 +88,17 @@ mkdir .gitignore
 ls --color=auto
 touch .gitignore
 ls --color=auto
+--help
+--help
+help
+clear
+ls --color=auto -la
+ls --color=auto -l
+ls --color=auto -l
+--help -l
+clear
+ls --color=auto
+ls --color=auto -l
+ls --color=auto -la
+clear
+ls --color=auto --help
