@@ -145,3 +145,8 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website/
 ls --color=auto
+touch codeAlly.svg
+ls --color=auto
+rm codeAlly.svg
+ls --color=auto
+touch CodeAlly.svg
