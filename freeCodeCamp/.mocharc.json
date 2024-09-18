@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "spec": ["./test/5.test.js"],
+=======
+  "spec": ["./test/10.test.js"],
+>>>>>>> faf3f47f5bb05c4f9a9676d4eafcf913a20501c5
   "reporter": "mocha-tap-reporter",
   "fail-zero": false,
   "timeout": "5000",
