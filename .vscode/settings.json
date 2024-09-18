@@ -93,5 +93,8 @@
   "workbench.statusBar.visible": false,
   "workbench.tips.enabled": false,
   "workbench.tree.renderIndentGuides": "none",
-  "zenMode.centerLayout": false
+  "zenMode.centerLayout": false,
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
