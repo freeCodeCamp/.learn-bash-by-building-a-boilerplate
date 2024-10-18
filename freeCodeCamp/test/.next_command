@@ -83,3 +83,4 @@ ls --color=auto
 touch .gitignore
 ls --color=auto
 ls --color=auto --help
+ls --color=auto -a
