@@ -76,3 +76,4 @@ touch style.css
 ls --color=auto
 styles.css
 touch styles.css
+ls --color=auto
