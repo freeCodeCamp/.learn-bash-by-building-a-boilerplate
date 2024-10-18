@@ -111,3 +111,4 @@ rm background.jpg
 ls --color=auto
 __vsc_prompt_cmd_original
 cp header.png images
+cp footer.jpeg images/
