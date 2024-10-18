@@ -118,3 +118,6 @@ cd ..
 rm footer.jpeg
 rm header.png
 ls --color=auto
+touch header.png
+touch footer.jpeg
+rm header.png
