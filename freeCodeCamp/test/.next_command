@@ -195,3 +195,4 @@ rm roboto-bold.woff
 cd ../../..
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts/
