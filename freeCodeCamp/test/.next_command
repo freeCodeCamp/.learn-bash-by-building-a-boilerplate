@@ -36,3 +36,4 @@ cd freeCodeCamp
 pwd
 ld
 ls --color=auto
+cd test
