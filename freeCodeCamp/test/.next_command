@@ -81,3 +81,4 @@ touch index.js
 delete style.css
 ls --color=auto
 touch .gitignore
+ls --color=auto
