@@ -65,3 +65,4 @@ pwd
 ls --color=auto
 __vsc_prompt_cmd_original
 cd freeCodeCamp
+pwd
