@@ -70,3 +70,4 @@ ls --color=auto
 cd src
 ls --color=auto
 pwd
+ls --color=auto
