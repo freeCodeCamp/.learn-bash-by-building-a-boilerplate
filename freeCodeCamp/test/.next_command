@@ -77,3 +77,5 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+pwd
+mkdir website
