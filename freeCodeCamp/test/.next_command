@@ -33,3 +33,4 @@ echo hello terminal
 pwd
 ls --color=auto
 cd freeCodeCamp
+pwd
